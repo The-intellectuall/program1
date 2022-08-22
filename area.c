@@ -5,6 +5,7 @@ return l*b;
 }
 int main()
 {
+	int c=0;
 	int a,b,result1=0;
 	printf("enter a value");
 	scanf("%d%d",&a,&b);
